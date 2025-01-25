@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML**
 
-- 📫 How to reach me **carlosdanielsanchezcastro1@gmail.com**
+- 📫 How to reach me **carlos_dsc@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
