@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">A passionate frontend developer from México.</h3>
 
 - 🔭 I’m currently working on **my first web page**
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **carlos_dsc@outlook.com**
 
